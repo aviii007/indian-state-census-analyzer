@@ -4,7 +4,7 @@ import org.junit.Test;
 public class CensusAnalyzerTest {
     private static final String INDIA_CENSUS_CSV_PATH = "F:\\indian-state-census-analyzer\\src\\main\\resources\\IndiaStateCensusData.csv";
     private static final String INDIA_CENSUS_CSV_WRONG_FILETYPE = "F:\\indian-state-census-analyzer\\src\\main\\resources\\IndiaStateCensusData.pdf";
-    private static final String INDIA_CENSUS_CSV_PATH_DELIMETER = "F:\\indian-state-census-analyzer\\src//main\\resources\\IndiaStateCensusData.csv";
+    private static final String INDIA_CENSUS_CSV_PATH_DELIMETER = "F:\\indian-state-census-analyzer\\src\\main//resources//IndiaStateCensusData.csv";
     private static final String INDIA_CENSUS_CSV_PATH_HEADER = "F:\\indian-state-census-analyzer\\src\\main\\resources\\IndiaStateCensusDataHeader.csv";
 
     //UseCase 1.1 Happy
